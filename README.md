@@ -19,7 +19,7 @@ To train this model:
 or\
   ./parse.sh \*.json\
 If you get permission errors just run:\
-  chmod +x ./parse.sh\
+  chmod +x ./parse.sh
 3. Run: python3 train.py
 
 To test the model:
